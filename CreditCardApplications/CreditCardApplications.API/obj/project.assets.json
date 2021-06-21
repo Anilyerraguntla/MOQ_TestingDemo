@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreditCardApplications.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CreditCardApplications.Core": "1.0.0",
+          "CreditCardApplications.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CreditCardApplications.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreditCardApplications.BLL.dll": {}
+        }
+      },
+      "CreditCardApplications.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CreditCardApplications.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreditCardApplications.Core.dll": {}
+        }
+      },
+      "CreditCardApplications.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CreditCardApplications.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreditCardApplications.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCardApplications.BLL/1.0.0": {
+      "type": "project",
+      "path": "../CreditCardApplications/CreditCardApplications.BLL.csproj",
+      "msbuildProject": "../CreditCardApplications/CreditCardApplications.BLL.csproj"
+    },
+    "CreditCardApplications.Core/1.0.0": {
+      "type": "project",
+      "path": "../CreditCardApplications.Core/CreditCardApplications.Core.csproj",
+      "msbuildProject": "../CreditCardApplications.Core/CreditCardApplications.Core.csproj"
+    },
+    "CreditCardApplications.DAL/1.0.0": {
+      "type": "project",
+      "path": "../CreditCardApplications.DAL/CreditCardApplications.DAL.csproj",
+      "msbuildProject": "../CreditCardApplications.DAL/CreditCardApplications.DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CreditCardApplications.BLL >= 1.0.0",
+      "CreditCardApplications.Core >= 1.0.0",
+      "CreditCardApplications.DAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Demo\\CreditCardApplications\\CreditCardApplications.API\\CreditCardApplications.API.csproj",
+      "projectName": "CreditCardApplications.API",
+      "projectPath": "D:\\Demo\\CreditCardApplications\\CreditCardApplications.API\\CreditCardApplications.API.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\Demo\\CreditCardApplications\\CreditCardApplications.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Demo\\CreditCardApplications\\CreditCardApplications.Core\\CreditCardApplications.Core.csproj": {
+              "projectPath": "D:\\Demo\\CreditCardApplications\\CreditCardApplications.Core\\CreditCardApplications.Core.csproj"
+            },
+            "D:\\Demo\\CreditCardApplications\\CreditCardApplications.DAL\\CreditCardApplications.DAL.csproj": {
+              "projectPath": "D:\\Demo\\CreditCardApplications\\CreditCardApplications.DAL\\CreditCardApplications.DAL.csproj"
+            },
+            "D:\\Demo\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.BLL.csproj": {
+              "projectPath": "D:\\Demo\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.BLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

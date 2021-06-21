@@ -1,0 +1,17 @@
+D:\Demo\02InitialTests\CreditCardApplications.DAL\bin\Debug\netcoreapp3.1\CreditCardApplications.DAL.deps.json
+D:\Demo\02InitialTests\CreditCardApplications.DAL\bin\Debug\netcoreapp3.1\CreditCardApplications.DAL.dll
+D:\Demo\02InitialTests\CreditCardApplications.DAL\bin\Debug\netcoreapp3.1\CreditCardApplications.DAL.pdb
+D:\Demo\02InitialTests\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.AssemblyInfoInputs.cache
+D:\Demo\02InitialTests\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.AssemblyInfo.cs
+D:\Demo\02InitialTests\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.csproj.CoreCompileInputs.cache
+D:\Demo\02InitialTests\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.dll
+D:\Demo\02InitialTests\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.pdb
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\bin\Debug\netcoreapp3.1\CreditCardApplications.DAL.deps.json
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\bin\Debug\netcoreapp3.1\CreditCardApplications.DAL.dll
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\bin\Debug\netcoreapp3.1\CreditCardApplications.DAL.pdb
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.AssemblyInfoInputs.cache
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.AssemblyInfo.cs
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.csproj.CoreCompileInputs.cache
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.dll
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.pdb
+D:\Demo\CreditCardApplications\CreditCardApplications.DAL\obj\Debug\netcoreapp3.1\CreditCardApplications.DAL.csproj.AssemblyReference.cache

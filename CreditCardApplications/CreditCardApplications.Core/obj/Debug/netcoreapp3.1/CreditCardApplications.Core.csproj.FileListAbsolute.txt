@@ -1,0 +1,16 @@
+D:\Demo\02InitialTests\CreditCardApplications.Core\bin\Debug\netcoreapp3.1\CreditCardApplications.Core.deps.json
+D:\Demo\02InitialTests\CreditCardApplications.Core\bin\Debug\netcoreapp3.1\CreditCardApplications.Core.dll
+D:\Demo\02InitialTests\CreditCardApplications.Core\bin\Debug\netcoreapp3.1\CreditCardApplications.Core.pdb
+D:\Demo\02InitialTests\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.AssemblyInfoInputs.cache
+D:\Demo\02InitialTests\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.AssemblyInfo.cs
+D:\Demo\02InitialTests\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.csproj.CoreCompileInputs.cache
+D:\Demo\02InitialTests\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.dll
+D:\Demo\02InitialTests\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.pdb
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\bin\Debug\netcoreapp3.1\CreditCardApplications.Core.deps.json
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\bin\Debug\netcoreapp3.1\CreditCardApplications.Core.dll
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\bin\Debug\netcoreapp3.1\CreditCardApplications.Core.pdb
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.AssemblyInfoInputs.cache
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.AssemblyInfo.cs
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.csproj.CoreCompileInputs.cache
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.dll
+D:\Demo\CreditCardApplications\CreditCardApplications.Core\obj\Debug\netcoreapp3.1\CreditCardApplications.Core.pdb

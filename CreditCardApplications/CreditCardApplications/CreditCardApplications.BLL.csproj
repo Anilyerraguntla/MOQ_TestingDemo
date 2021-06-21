@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Models\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <None Remove="Models\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CreditCardApplications.Core\CreditCardApplications.Core.csproj" />
+    <ProjectReference Include="..\CreditCardApplications.DAL\CreditCardApplications.DAL.csproj" />
+  </ItemGroup>
+</Project>
